@@ -21,7 +21,9 @@ The city provides many, many more services, and programatic access to service re
 
 The idea of this project is to extend the [Code For America's 311 Python wrapper](https://github.com/codeforamerica/three) to provide a seamless interface to the rest of these 311 service types. Ideally, the user of this library should not need to know whether the service they care about is part of the Open 311.
 
+Describe the service types here:
 
+https://docs.google.com/spreadsheets/d/10XGY4TevLh9Z49-BJ7WowT5aRvrRCguX43KlvC35jBE/edit?usp=sharing
 
 
 
